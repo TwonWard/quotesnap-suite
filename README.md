@@ -2,9 +2,9 @@
 
 Stop losing leads to slow quotes. QuoteSnap is a suite of embeddable, $0 upkeep calculators for auto detailers and pressure washers — Residential + Commercial.
 
-Live Demo: `https://YOURUSERNAME.github.io/quotesnap-suite/`
+Live Demo: `https://TwonWard.github.io/quotesnap-suite/`
 
-![QuoteSnap Logo](https://github.com/YOURUSERNAME/quotesnap-suite/blob/main/quotesnap_logo_transparent.png?raw=true)
+![QuoteSnap Logo](https://github.com/TwonWard/quotesnap-suite/blob/main/quotesnap_logo_transparent.png?raw=true)
 
 ## What’s Inside
 
